@@ -4,6 +4,7 @@ Welcome to the Coding Challenges repository! This repo contains a collection of 
 
 
 Solution Format
+
 Each solution should include:
 
 Problem statement
