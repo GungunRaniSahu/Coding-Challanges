@@ -8,7 +8,9 @@ Solution Format
 Each solution should include:
 
 Problem statement
+
 Code solution
+
 Explanation of the approach
 
 
