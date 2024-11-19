@@ -4,6 +4,7 @@ void main()
 {
   int num , sum =0 ;
 
+  printf("Enter a number of your choice : \n");
   scanf("%d" , &num);
 
   if(num == 0)
