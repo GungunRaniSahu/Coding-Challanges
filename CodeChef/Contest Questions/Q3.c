@@ -7,6 +7,8 @@ void main()
 
   printf("Enter First number: \n");
   scanf("%d" , &a);
+
+  printf("Enter Second number: \n");
   scanf("%d" , &b);
 
   s = pow(a,b);
