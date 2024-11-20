@@ -12,7 +12,8 @@ Output the maximum number of ice cream cones Chef can make.*/
 int main()
 {
     int cones , scoops;
-    
+
+    printf("Enter the number of cones: \n");
     scanf("%d" , &cones);
     scanf("%d" , &scoops);
     
